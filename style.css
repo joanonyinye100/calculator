@@ -1,0 +1,36 @@
+
+
+table{
+    width: 600px;
+    height: 400px;
+    
+    
+}
+
+
+table tr td{
+    border:1px solid gray;
+    background-color: #5f6368;
+    border-radius:10px;
+    color: white;
+    text-align: center;
+    width: 30px;
+    border-spacing:30px;
+
+}
+ body table tr  .zero{
+    text-align: right;
+    margin-bottom: 20px;
+    background-color: white;
+    color: black;
+    font-size: 30px;
+ }
+ body table tr .num{
+    background-color: #3c4043;
+
+ }
+.blue{
+    background-color:#8ab4f8;
+    color: black;
+    font-weight: bold;
+}
